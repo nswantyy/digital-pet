@@ -5,6 +5,8 @@ A lightweight, interactive console application that simulates a virtual pet (Tam
 ---
 
 ## Gameplay & Features
+<img width="847" height="250" alt="image" src="https://github.com/user-attachments/assets/928c183a-bd2e-4485-aef7-a6089a2538e3" />
+
 
 * **Pet Customization:** Choose your pet's gender (`W` for Girl — *Zefirka*, `M` for Boy — *Pryanyk*, or fallback to *Fluffy* for unknown input) and optionally rename it before starting the game.
 * **Interactive Care Menu:** Take care of your kitten using a clean `switch-case` menu:
